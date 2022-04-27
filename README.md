@@ -5,7 +5,7 @@ Assumptions/prerequisites:
 2.	LTS version of Node.js called Fermium version Node.js 14.18.1 is installed on the system.
 3.	The latest version of IDE (Visual Studio Code) is installed on the system.
 
-Steps to test
+Steps to run the test
 1.	Download the project from the GitHub repository by cloning the repository from the master branch in the location of your choice. Type the below command in the git bash where you want to download the project. 
 
  git clone https://github.com/ravikumarcommits/myassignment.git
